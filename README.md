@@ -8,7 +8,7 @@ I have experience in data manipulation and cleaning, building visualizations in 
 
 Feel free to explore the projects I’ll be sharing here as I continue learning and building!
 
-#Projects
+## Projects
 ----------------
-## My firsts projects
+### My firsts projects
 
