@@ -7,3 +7,8 @@ Although I currently have a full-time job in another field, I've always been clo
 I have experience in data manipulation and cleaning, building visualizations in Power BI, and I'm steadily growing my skills in SQL and Python.
 
 Feel free to explore the projects I’ll be sharing here as I continue learning and building!
+
+#Projects
+----------------
+## My firsts projects
+
