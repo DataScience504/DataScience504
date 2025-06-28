@@ -8,9 +8,9 @@ I have experience in data manipulation and cleaning, building visualizations in 
 
 Feel free to explore the projects I’ll be sharing here as I continue learning and building!
 
-# Projects
+# Projects:
 
-## My firsts projects
+## My firsts projects:
 ### Lunar phase and birth rates — are they related?
 In this project, we perform an exploratory analysis to determine whether there is any correlation between the lunar phase and the number of births.
 The analysis includes date processing, astronomical lunar phase calculation, data visualization, and basic statistical testing.
