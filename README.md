@@ -1,4 +1,4 @@
-# Welcome to DataScience504!
+# Welcome to DataScience 504!
 
 I'm a data enthusiast, just beginning my journey into the world of Data Analytics and Data Science. I created this space to share the work I'm doing along the way — on a never-ending path to support data-driven decision-making.
 
