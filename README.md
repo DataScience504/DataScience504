@@ -11,15 +11,12 @@ Feel free to explore the projects I’ll be sharing here as I continue learning 
 # Projects:
 
 ## My firsts projects:
-### Earthquake Visualization in Central America (1975–2025)
+### Earthquake Visualization in Central America (1975–2025) [View project](https://github.com/DataScience504/Earthquake-CentralAmerica)
 This project provides an interactive, visual exploration of earthquake activity in Central America over the last 50 years. Using data visualization tools like Folium and Pandas, we identify spatial patterns, seismic hotspots, and the most powerful earthquakes in the region.
 
-[View project](https://github.com/DataScience504/Earthquake-CentralAmerica)
-
-
-### Lunar phase and birth rates — are they related?
+### Lunar phase and birth rates — are they related? [View project](https://github.com/DataScience504/moon-phase-birth-analysis)
 In this project, we perform an exploratory analysis to determine whether there is any correlation between the lunar phase and the number of births.
 The analysis includes date processing, astronomical lunar phase calculation, data visualization, and basic statistical testing.
 
-[View project](https://github.com/DataScience504/moon-phase-birth-analysis)
+
 
