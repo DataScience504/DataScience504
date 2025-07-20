@@ -16,6 +16,7 @@ This project provides an interactive, visual exploration of earthquake activity 
 
 [View project](https://github.com/DataScience504/Earthquake-CentralAmerica)
 
+
 ### Lunar phase and birth rates — are they related?
 In this project, we perform an exploratory analysis to determine whether there is any correlation between the lunar phase and the number of births.
 The analysis includes date processing, astronomical lunar phase calculation, data visualization, and basic statistical testing.
